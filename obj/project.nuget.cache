@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZedPPy2dINo=",
+  "dgSpecHash": "9EMeOlvjuM0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\asp.net\\uygulama\\ders1\\OnlineKutuphane.csproj",
+  "projectFilePath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\libraryProject\\libraryproject\\OnlineKutuphane.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\musta\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\musta\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
